@@ -6,8 +6,6 @@ Ejecutar el unico Runner:
 
 1. BookingRunner -> Ejecuta todos los escenarios que respectan a Booking.
 
-#ChromeDriver, lo descarga como dependencia.
-
 #NOTA: El programa fue realizado bajo las configuraciones:
 - Intellij 2023
 - Gradle 8.1.1
